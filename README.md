@@ -19,3 +19,15 @@ Sin embargo, cuanto más específico sea el selector, más problemas tendremos c
 ```  
 
 Al trabajar con clases logramos la reutilización de estilos además en caso que necesitemos agregar un estilo específico a un elemento podríamos considerar utilizar el selector id.
+
+## Cómo organizar el CSS en tu proyecto
+
+<https://www.aluracursos.com/blog/como-organizar-el-css-en-tu-proyecto>
+
+## Creación de componentes CSS con el estándar BEM
+
+<https://www.aluracursos.com/blog/creacion-de-componentes-css-con-el-estandar-bem>
+
+## Equipo Front End #AluraMás
+
+<https://www.youtube.com/watch?v=rpvrLaBQwgg>
